@@ -114,7 +114,7 @@ erDiagram
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/alaminhossa1n/6sense-backend-task
    cd 6sense-task
    ```
 
@@ -337,16 +337,3 @@ src/
 ├── app.ts
 └── server.ts
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the ISC License.
-# 6sense-backend-task
