@@ -299,15 +299,6 @@ Error response format:
   }
 }
 ```
-
-## 🧪 Testing
-
-The project includes a test file for the product code generator:
-
-```bash
-node test-code-generator.js
-```
-
 ## 📁 Project Structure
 
 ```
